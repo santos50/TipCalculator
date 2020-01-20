@@ -35,7 +35,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Some challenges I encountered were I think specifically because I have a different version of XCode on my laptop (version 7) than the video:
   1) I had issues connecting Sent Events (Value Changed to calculateTip function) and had to look to Stackoverflow for help
-  2) Just some issues finding certain tools that were located differently on my XCode version than the version used in the video
+  2) Had issues with "Any" and "AnyObject" when creating a function
+  3) Had to look up a different way to connect GitHub than what was given in video
+  4) Just some general issues finding certain tools that were located differently on my XCode version than the version used in the video
 
 ## License
 
